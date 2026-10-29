@@ -1,5 +1,5 @@
 /**
- * Generate PNG PWA icons from the favicon SVG using sharp.
+ * Generate PNG PWA icons from the RideRecord logo PNG using sharp.
  * Run: node scripts/generate-png-icons.cjs
  */
 const sharp = require('sharp');
@@ -7,71 +7,83 @@ const fs = require('fs');
 const path = require('path');
 
 const publicDir = path.join(__dirname, '..', 'public');
-const svgSource = fs.readFileSync(path.join(publicDir, 'favicon.svg'), 'utf8');
+const logoPath = path.join(__dirname, '..', '..', 'RideRecord Motorcycle Log Logo.png');
 
-function wrapSvg(size, padding) {
-  const innerSize = size - padding * 2;
-  const scaleX = innerSize / 48;
-  const scaleY = innerSize / 46;
-  const scale = Math.min(scaleX, scaleY);
-  const w = 48 * scale;
-  const h = 46 * scale;
-  const offsetX = (size - w) / 2;
-  const offsetY = (size - h) / 2;
-  const innerContent = svgSource.replace(/<svg[^>]*>/, '').replace(/<\/svg>/, '');
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
-  <rect width="${size}" height="${size}" rx="${Math.round(size * 0.18)}" fill="#0d0d0d"/>
-  <g transform="translate(${offsetX.toFixed(2)},${offsetY.toFixed(2)}) scale(${scale.toFixed(4)})">
-    ${innerContent}
-  </g>
-</svg>`;
+async function generateIcon(size, padding, outputName) {
+  const innerSize = Math.round(size - padding * 2);
+  const roundedCorners = Math.round(size * 0.18);
+
+  // Create a rounded-rect background
+  const bgSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}">
+    <rect width="${size}" height="${size}" rx="${roundedCorners}" fill="#0d0d0d"/>
+  </svg>`;
+
+  // Resize the logo to fit inside the padded area
+  const resizedLogo = await sharp(logoPath)
+    .resize(innerSize, innerSize, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .negate({ alpha: false }) // Invert black logo to white for dark background
+    .png()
+    .toBuffer();
+
+  // Composite logo on top of background
+  await sharp(Buffer.from(bgSvg))
+    .resize(size, size)
+    .composite([{
+      input: resizedLogo,
+      top: padding,
+      left: padding,
+    }])
+    .png()
+    .toFile(path.join(publicDir, outputName));
+
+  console.log(`Generated ${outputName}`);
 }
 
-function wrapMaskable(size) {
-  const padding = size * 0.15;
-  const innerSize = size - padding * 2;
-  const scaleX = innerSize / 48;
-  const scaleY = innerSize / 46;
-  const scale = Math.min(scaleX, scaleY);
-  const w = 48 * scale;
-  const h = 46 * scale;
-  const offsetX = (size - w) / 2;
-  const offsetY = (size - h) / 2;
-  const innerContent = svgSource.replace(/<svg[^>]*>/, '').replace(/<\/svg>/, '');
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
-  <rect width="${size}" height="${size}" fill="#0d0d0d"/>
-  <g transform="translate(${offsetX.toFixed(2)},${offsetY.toFixed(2)}) scale(${scale.toFixed(4)})">
-    ${innerContent}
-  </g>
-</svg>`;
+async function generateMaskableIcon(size, outputName) {
+  const padding = Math.round(size * 0.15);
+  const innerSize = Math.round(size - padding * 2);
+
+  // Maskable icons: full-bleed rectangle background (no rounded corners)
+  const bgSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}">
+    <rect width="${size}" height="${size}" fill="#0d0d0d"/>
+  </svg>`;
+
+  const resizedLogo = await sharp(logoPath)
+    .resize(innerSize, innerSize, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .negate({ alpha: false })
+    .png()
+    .toBuffer();
+
+  await sharp(Buffer.from(bgSvg))
+    .resize(size, size)
+    .composite([{
+      input: resizedLogo,
+      top: padding,
+      left: padding,
+    }])
+    .png()
+    .toFile(path.join(publicDir, outputName));
+
+  console.log(`Generated ${outputName}`);
 }
 
 async function generate() {
+  // Verify logo file exists
+  if (!fs.existsSync(logoPath)) {
+    console.error(`Logo not found at: ${logoPath}`);
+    process.exit(1);
+  }
+
   const sizes = [192, 512];
   for (const size of sizes) {
-    const regularSvg = Buffer.from(wrapSvg(size, Math.round(size * 0.12)));
-    const maskableSvg = Buffer.from(wrapMaskable(size));
-    
-    await sharp(regularSvg, { density: 150 })
-      .resize(size, size)
-      .png()
-      .toFile(path.join(publicDir, `icon-${size}.png`));
-    console.log(`Generated icon-${size}.png`);
-    
-    await sharp(maskableSvg, { density: 150 })
-      .resize(size, size)
-      .png()
-      .toFile(path.join(publicDir, `icon-maskable-${size}.png`));
-    console.log(`Generated icon-maskable-${size}.png`);
+    const padding = Math.round(size * 0.12);
+    await generateIcon(size, padding, `icon-${size}.png`);
+    await generateMaskableIcon(size, `icon-maskable-${size}.png`);
   }
-  
+
   // Also generate apple-touch-icon (180x180)
-  const appleSvg = Buffer.from(wrapSvg(180, Math.round(180 * 0.08)));
-  await sharp(appleSvg, { density: 150 })
-    .resize(180, 180)
-    .png()
-    .toFile(path.join(publicDir, 'apple-touch-icon.png'));
-  console.log('Generated apple-touch-icon.png');
+  const applePadding = Math.round(180 * 0.08);
+  await generateIcon(180, applePadding, 'apple-touch-icon.png');
 
   // Update manifest to use PNG icons
   const manifestPath = path.join(publicDir, 'manifest.json');
