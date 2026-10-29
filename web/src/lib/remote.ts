@@ -1,7 +1,7 @@
 import { validateCatalogEntry } from '../domain/catalog';
 import type { CatalogEntry } from '../domain/types';
 
-export const API_URL: string | undefined = (import.meta.env?.VITE_API_URL as string | undefined)?.replace(/\/$/, '') || undefined;
+export const API_URL: string | undefined = (import.meta.env?.VITE_API_URL as string | undefined)?.replace(/\/$/, '') || '/api';
 
 export type RemoteStatus =
   | { state: 'not-configured' }

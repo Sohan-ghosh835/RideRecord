@@ -14,8 +14,16 @@ from .store import Store
 
 
 @lru_cache
+def _default_db_path() -> str:
+    """On Vercel, the filesystem is read-only except /tmp."""
+    if os.environ.get("VERCEL"):
+        return "/tmp/catalog.sqlite3"
+    return "data/catalog.sqlite3"
+
+
+@lru_cache
 def store() -> Store:
-    return Store(os.environ.get("CATALOG_DB", "data/catalog.sqlite3"))
+    return Store(os.environ.get("CATALOG_DB", _default_db_path()))
 
 
 def admin(x_admin_token: str | None = Header(default=None)) -> None:
@@ -28,7 +36,8 @@ def admin(x_admin_token: str | None = Header(default=None)) -> None:
 
 
 app = FastAPI(title="RideRecord catalog service", version="1.0.0")
-app.add_middleware(CORSMiddleware, allow_origins=os.environ.get("CORS_ORIGINS", "http://localhost:5173,http://localhost:4173").split(","),
+_default_origins = "*" if os.environ.get("VERCEL") else "http://localhost:5173,http://localhost:4173"
+app.add_middleware(CORSMiddleware, allow_origins=os.environ.get("CORS_ORIGINS", _default_origins).split(","),
                    allow_methods=["GET", "POST"], allow_headers=["*"])
 
 
