@@ -1,0 +1,86 @@
+Royal Enfield|Hunter 350|2022|naked|royal-enfield-hunter-350
+Royal Enfield|Classic 350 J-series|2021|cruiser|royal-enfield-classic-350-j-series
+Royal Enfield|Classic 350 UCE (pre-2021)|2009|cruiser|royal-enfield-classic-350-uce-pre-2021
+Royal Enfield|Bullet 350 J-series|2023|cruiser|royal-enfield-bullet-350-j-series
+Royal Enfield|Meteor 350|2020|cruiser|royal-enfield-meteor-350
+Royal Enfield|Himalayan 411 411|2016|adventure|royal-enfield-himalayan-411-411
+Royal Enfield|Himalayan 450 450|2023|adventure|royal-enfield-himalayan-450-450
+Royal Enfield|Interceptor 650|2018|naked|royal-enfield-interceptor-650
+Royal Enfield|Continental GT 650|2018|naked|royal-enfield-continental-gt-650
+Royal Enfield|Scram 411|2022|dual-sport|royal-enfield-scram-411
+Royal Enfield|Super Meteor 650|2023|cruiser|royal-enfield-super-meteor-650
+Honda|Activa 6G|2020|scooter|honda-activa-6g
+Honda|Activa 125|2018|scooter|honda-activa-125
+Honda|Dio|2012|scooter|honda-dio
+Honda|Shine 125|2020|commuter|honda-shine-125
+Honda|SP 125|2019|commuter|honda-sp-125
+Honda|Unicorn|2004|commuter|honda-unicorn
+Honda|CB350 H'ness|2020|cruiser|honda-cb350-h-ness
+Honda|Hornet 2.0|2020|naked|honda-hornet-2-0
+Hero|Splendor Plus|2011|commuter|hero-splendor-plus
+Hero|HF Deluxe|2013|commuter|hero-hf-deluxe
+Hero|Glamour|2005|commuter|hero-glamour
+Hero|Xtreme 160R|2020|naked|hero-xtreme-160r
+Hero|Destini 125|2018|scooter|hero-destini-125
+Hero|Pleasure Plus|2016|scooter|hero-pleasure-plus
+Hero|Vida V1|2022|electric-scooter|hero-vida-v1
+Bajaj|Pulsar 150|2001|naked|bajaj-pulsar-150
+Bajaj|Pulsar NS200|2012|naked|bajaj-pulsar-ns200
+Bajaj|Pulsar 220F|2007|sport|bajaj-pulsar-220f
+Bajaj|Platina 100|2006|commuter|bajaj-platina-100
+Bajaj|Avenger|2005|cruiser|bajaj-avenger
+Bajaj|Dominar 400|2016|touring|bajaj-dominar-400
+Bajaj|Chetak|2020|electric-scooter|bajaj-chetak
+TVS|Apache RTR 160 4V|2018|naked|tvs-apache-rtr-160-4v
+TVS|Apache RR 310|2017|sport|tvs-apache-rr-310
+TVS|Jupiter|2013|scooter|tvs-jupiter
+TVS|Ntorq 125|2018|scooter|tvs-ntorq-125
+TVS|Raider 125|2021|commuter|tvs-raider-125
+TVS|Radeon|2018|commuter|tvs-radeon
+TVS|iQube|2020|electric-scooter|tvs-iqube
+Yamaha|R15 V3 V3|2018|sport|yamaha-r15-v3-v3
+Yamaha|R15 V4 V4|2021|sport|yamaha-r15-v4-v4
+Yamaha|MT-15|2019|naked|yamaha-mt-15
+Yamaha|FZ-S Fi|2019|naked|yamaha-fz-s-fi
+Yamaha|Fascino 125|2015|scooter|yamaha-fascino-125
+Yamaha|RayZR 125|2016|scooter|yamaha-rayzr-125
+Suzuki|Access 125|2007|scooter|suzuki-access-125
+Suzuki|Gixxer SF|2015|sport|suzuki-gixxer-sf
+Suzuki|Burgman Street|2018|scooter|suzuki-burgman-street
+Suzuki|V-Strom SX|2022|adventure|suzuki-v-strom-sx
+Suzuki|Hayabusa|2013|sport|suzuki-hayabusa
+KTM|Duke 200|2012|naked|ktm-duke-200
+KTM|Duke 250|2017|naked|ktm-duke-250
+KTM|Duke 390 Gen 1 (2013-2016)|2013|naked|ktm-duke-390-gen-1-2013-2016
+KTM|Duke 390 Gen 2 (2017-2023)|2017|naked|ktm-duke-390-gen-2-2017-2023
+KTM|Duke 390 Gen 3 (2024-)|2024|naked|ktm-duke-390-gen-3-2024
+KTM|RC 390|2014|sport|ktm-rc-390
+KTM|390 Adventure|2020|adventure|ktm-390-adventure
+Kawasaki|Ninja 300|2013|sport|kawasaki-ninja-300
+Kawasaki|Ninja 650|2017|sport|kawasaki-ninja-650
+Kawasaki|Z900|2017|naked|kawasaki-z900
+Kawasaki|Versys 650|2015|adventure|kawasaki-versys-650
+BMW Motorrad|G 310 R|2018|naked|bmw-motorrad-g-310-r
+BMW Motorrad|G 310 GS|2018|adventure|bmw-motorrad-g-310-gs
+BMW Motorrad|R 1250 GS|2019|adventure|bmw-motorrad-r-1250-gs
+Triumph|Speed 400|2023|naked|triumph-speed-400
+Triumph|Scrambler 400 X|2023|dual-sport|triumph-scrambler-400-x
+Triumph|Street Triple|2008|naked|triumph-street-triple
+Harley-Davidson|Street 750|2014|cruiser|harley-davidson-street-750
+Harley-Davidson|X440|2023|cruiser|harley-davidson-x440
+Harley-Davidson|Iron 883|2009|cruiser|harley-davidson-iron-883
+Ducati|Monster|1993|naked|ducati-monster
+Ducati|Scrambler Icon|2015|naked|ducati-scrambler-icon
+Aprilia|SR 160|2020|scooter|aprilia-sr-160
+Aprilia|RS 457|2024|sport|aprilia-rs-457
+Benelli|Imperiale 400|2019|cruiser|benelli-imperiale-400
+Benelli|TRK 502|2018|adventure|benelli-trk-502
+Jawa|42|2018|cruiser|jawa-42
+Jawa|Perak|2019|cruiser|jawa-perak
+Yezdi|Roadster|2022|cruiser|yezdi-roadster
+Yezdi|Adventure|2022|adventure|yezdi-adventure
+CFMoto|300 SR|2022|sport|cfmoto-300-sr
+CFMoto|650 MT|2022|adventure|cfmoto-650-mt
+Ather|450X|2020|electric-scooter|ather-450x
+Ola Electric|S1 Pro|2021|electric-scooter|ola-electric-s1-pro
+Ola Electric|S1 Air|2022|electric-scooter|ola-electric-s1-air

@@ -1,0 +1,1964 @@
+{
+ "aprilia-rs-457": [
+  {
+   "name": "Arsenic Yellow",
+   "slug": "arsenic-yellow"
+  },
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Coral Snake Blue",
+   "slug": "coral-snake-blue"
+  },
+  {
+   "name": "Opalescent Light",
+   "slug": "opalescent-light"
+  },
+  {
+   "name": "Prismatic Dark",
+   "slug": "prismatic-dark"
+  },
+  {
+   "name": "Racing Stripes",
+   "slug": "racing-stripes"
+  }
+ ],
+ "ather-450x": [
+  {
+   "name": "Cosmic Black",
+   "slug": "cosmic-black"
+  },
+  {
+   "name": "Hyper Sand",
+   "slug": "hyper-sand"
+  },
+  {
+   "name": "Industrial Silver",
+   "slug": "industrial-silver"
+  },
+  {
+   "name": "Lunar Grey",
+   "slug": "lunar-grey"
+  },
+  {
+   "name": "Space Grey",
+   "slug": "space-grey"
+  },
+  {
+   "name": "Stealth Blue",
+   "slug": "stealth-blue"
+  },
+  {
+   "name": "Still White",
+   "slug": "still-white"
+  },
+  {
+   "name": "True Red",
+   "slug": "true-red"
+  }
+ ],
+ "bajaj-avenger": [
+  {
+   "name": "Ebony Black",
+   "slug": "ebony-black"
+  },
+  {
+   "name": "Spicy Red",
+   "slug": "spicy-red"
+  }
+ ],
+ "bajaj-chetak": [
+  {
+   "name": "3501 Hazel Nut",
+   "slug": "3501-hazel-nut"
+  },
+  {
+   "name": "3501 Pista Green",
+   "slug": "3501-pista-green"
+  },
+  {
+   "name": "3501 Racing Red",
+   "slug": "3501-racing-red"
+  },
+  {
+   "name": "3502 Brooklyn Black",
+   "slug": "3502-brooklyn-black"
+  },
+  {
+   "name": "3502 Indigo Metallic",
+   "slug": "3502-indigo-metallic"
+  },
+  {
+   "name": "3502 Matte Coarse Grey",
+   "slug": "3502-matte-coarse-grey"
+  },
+  {
+   "name": "3502 Moon White",
+   "slug": "3502-moon-white"
+  },
+  {
+   "name": "3503 Cyber White",
+   "slug": "3503-cyber-white"
+  },
+  {
+   "name": "3503 Matt Grey",
+   "slug": "3503-matt-grey"
+  }
+ ],
+ "bajaj-dominar-400": [
+  {
+   "name": "Aurora Green",
+   "slug": "aurora-green"
+  },
+  {
+   "name": "Charcoal Black",
+   "slug": "charcoal-black"
+  },
+  {
+   "name": "Electronic Orange",
+   "slug": "electronic-orange"
+  }
+ ],
+ "bajaj-platina-100": [
+  {
+   "name": "Black Red",
+   "slug": "black-red"
+  },
+  {
+   "name": "Black White",
+   "slug": "black-white"
+  },
+  {
+   "name": "Blue",
+   "slug": "blue"
+  },
+  {
+   "name": "Red",
+   "slug": "red"
+  }
+ ],
+ "bajaj-pulsar-150": [
+  {
+   "name": "Black Gold",
+   "slug": "black-gold"
+  },
+  {
+   "name": "Ebony Black Cherry Red",
+   "slug": "ebony-black-cherry-red"
+  },
+  {
+   "name": "Ebony Black Dark Grey",
+   "slug": "ebony-black-dark-grey"
+  },
+  {
+   "name": "Ebony Black Ink Blue",
+   "slug": "ebony-black-ink-blue"
+  }
+ ],
+ "bajaj-pulsar-220f": [
+  {
+   "name": "Black Cherry Red",
+   "slug": "black-cherry-red"
+  },
+  {
+   "name": "Black Copper Beige",
+   "slug": "black-copper-beige"
+  },
+  {
+   "name": "Black Gold",
+   "slug": "black-gold"
+  },
+  {
+   "name": "Black Ink Blue",
+   "slug": "black-ink-blue"
+  },
+  {
+   "name": "Pearl Metallic White",
+   "slug": "pearl-metallic-white"
+  }
+ ],
+ "bajaj-pulsar-ns200": [
+  {
+   "name": "Cocktail Wine Red White",
+   "slug": "cocktail-wine-red-white"
+  },
+  {
+   "name": "Glossy Ebony Black",
+   "slug": "glossy-ebony-black"
+  },
+  {
+   "name": "Pearl Metallic White",
+   "slug": "pearl-metallic-white"
+  },
+  {
+   "name": "Pewter Grey Blue",
+   "slug": "pewter-grey-blue"
+  }
+ ],
+ "benelli-imperiale-400": [
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Red",
+   "slug": "red"
+  },
+  {
+   "name": "Silver",
+   "slug": "silver"
+  }
+ ],
+ "benelli-trk-502": [
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Dark Grey",
+   "slug": "dark-grey"
+  },
+  {
+   "name": "Green",
+   "slug": "green"
+  },
+  {
+   "name": "Mat Gunpowder Black Metallic",
+   "slug": "mat-gunpowder-black-metallic"
+  },
+  {
+   "name": "White",
+   "slug": "white"
+  }
+ ],
+ "bmw-motorrad-g-310-gs": [
+  {
+   "name": "Cosmic Black",
+   "slug": "cosmic-black"
+  },
+  {
+   "name": "Polar White With Racing Blue",
+   "slug": "polar-white-with-racing-blue"
+  },
+  {
+   "name": "Racing Red",
+   "slug": "racing-red"
+  }
+ ],
+ "bmw-motorrad-g-310-r": [
+  {
+   "name": "Cosmic Black",
+   "slug": "cosmic-black"
+  },
+  {
+   "name": "Granite Grey Metallic",
+   "slug": "granite-grey-metallic"
+  },
+  {
+   "name": "Polar Whiteracing Blue Metallic",
+   "slug": "polar-whiteracing-blue-metallic"
+  }
+ ],
+ "bmw-motorrad-r-1250-gs": [
+  {
+   "name": "Light White Non Metallic",
+   "slug": "light-white-non-metallic"
+  },
+  {
+   "name": "Striking Black And Yellow",
+   "slug": "striking-black-and-yellow"
+  },
+  {
+   "name": "Style Rallye",
+   "slug": "style-rallye"
+  },
+  {
+   "name": "Style Triple Black",
+   "slug": "style-triple-black"
+  }
+ ],
+ "cfmoto-650-mt": [
+  {
+   "name": "Athens Blue",
+   "slug": "athens-blue"
+  },
+  {
+   "name": "Nebula White",
+   "slug": "nebula-white"
+  }
+ ],
+ "ducati-monster": [
+  {
+   "name": "Aviator Grey",
+   "slug": "aviator-grey"
+  },
+  {
+   "name": "Dark Stealth",
+   "slug": "dark-stealth"
+  },
+  {
+   "name": "Ducati Red",
+   "slug": "ducati-red"
+  },
+  {
+   "name": "Iceberg White",
+   "slug": "iceberg-white"
+  }
+ ],
+ "ducati-scrambler-icon": [
+  {
+   "name": "Ducati Red",
+   "slug": "ducati-red"
+  },
+  {
+   "name": "Yellow",
+   "slug": "yellow"
+  }
+ ],
+ "harley-davidson-iron-883": [
+  {
+   "name": "Black Denim",
+   "slug": "black-denim"
+  },
+  {
+   "name": "Gunship Gray",
+   "slug": "gunship-gray"
+  },
+  {
+   "name": "White Sand Pearl",
+   "slug": "white-sand-pearl"
+  }
+ ],
+ "harley-davidson-x440": [
+  {
+   "name": "Baja Orange",
+   "slug": "baja-orange"
+  },
+  {
+   "name": "Goldfish Silver",
+   "slug": "goldfish-silver"
+  },
+  {
+   "name": "Matte Black",
+   "slug": "matte-black"
+  },
+  {
+   "name": "Metallic Dark Silver",
+   "slug": "metallic-dark-silver"
+  },
+  {
+   "name": "Metallic Thick Red",
+   "slug": "metallic-thick-red"
+  },
+  {
+   "name": "Mustard Denim",
+   "slug": "mustard-denim"
+  },
+  {
+   "name": "Vivid Mustard",
+   "slug": "vivid-mustard"
+  }
+ ],
+ "hero-destini-125": [
+  {
+   "name": "Aqua Grey",
+   "slug": "aqua-grey"
+  },
+  {
+   "name": "Cosmic Blue",
+   "slug": "cosmic-blue"
+  },
+  {
+   "name": "Eternal White",
+   "slug": "eternal-white"
+  },
+  {
+   "name": "Groovy Red",
+   "slug": "groovy-red"
+  },
+  {
+   "name": "Mystique Magenta",
+   "slug": "mystique-magenta"
+  },
+  {
+   "name": "Pearl Black",
+   "slug": "pearl-black"
+  }
+ ],
+ "hero-glamour": [
+  {
+   "name": "Black Metalic Silver",
+   "slug": "black-metalic-silver"
+  },
+  {
+   "name": "Black Sports Red",
+   "slug": "black-sports-red"
+  },
+  {
+   "name": "Candy Blazing Red",
+   "slug": "candy-blazing-red"
+  },
+  {
+   "name": "Techno Blu Met Blk",
+   "slug": "techno-blu-met-blk"
+  }
+ ],
+ "hero-hf-deluxe": [
+  {
+   "name": "Black Funk Lime Yellow Pro",
+   "slug": "black-funk-lime-yellow-pro"
+  },
+  {
+   "name": "Black Grey Stripe Pro",
+   "slug": "black-grey-stripe-pro"
+  },
+  {
+   "name": "Black Grey Stripe",
+   "slug": "black-grey-stripe"
+  },
+  {
+   "name": "Black Nexus Blue Pro",
+   "slug": "black-nexus-blue-pro"
+  },
+  {
+   "name": "Black Nexus Blue",
+   "slug": "black-nexus-blue"
+  },
+  {
+   "name": "Black Red Stripe Pro",
+   "slug": "black-red-stripe-pro"
+  },
+  {
+   "name": "Candy Blazing Red",
+   "slug": "candy-blazing-red"
+  },
+  {
+   "name": "Lime Yellow",
+   "slug": "lime-yellow"
+  },
+  {
+   "name": "Sports Red Black",
+   "slug": "sports-red-black"
+  }
+ ],
+ "hero-pleasure-plus": [
+  {
+   "name": "Copper Brown",
+   "slug": "copper-brown"
+  },
+  {
+   "name": "Mat Black",
+   "slug": "mat-black"
+  },
+  {
+   "name": "Mat Vernier Grey",
+   "slug": "mat-vernier-grey"
+  },
+  {
+   "name": "Matte Black",
+   "slug": "matte-black"
+  },
+  {
+   "name": "Matte Red",
+   "slug": "matte-red"
+  },
+  {
+   "name": "Matte Vernier Grey",
+   "slug": "matte-vernier-grey"
+  },
+  {
+   "name": "Pearl Blue",
+   "slug": "pearl-blue"
+  },
+  {
+   "name": "Pearl Silver White",
+   "slug": "pearl-silver-white"
+  },
+  {
+   "name": "Perl Red Disc",
+   "slug": "perl-red-disc"
+  },
+  {
+   "name": "Polestar Blue",
+   "slug": "polestar-blue"
+  },
+  {
+   "name": "Sport Red",
+   "slug": "sport-red"
+  },
+  {
+   "name": "Teal Blue",
+   "slug": "teal-blue"
+  }
+ ],
+ "hero-splendor-plus": [
+  {
+   "name": "Black And Accent",
+   "slug": "black-and-accent"
+  },
+  {
+   "name": "Black Grey Stripe",
+   "slug": "black-grey-stripe"
+  },
+  {
+   "name": "Black Red Purple",
+   "slug": "black-red-purple"
+  },
+  {
+   "name": "Blue Black",
+   "slug": "blue-black"
+  },
+  {
+   "name": "Force Silver",
+   "slug": "force-silver"
+  },
+  {
+   "name": "Lime Yellow",
+   "slug": "lime-yellow"
+  },
+  {
+   "name": "Matte Grey",
+   "slug": "matte-grey"
+  },
+  {
+   "name": "Sports Red Black",
+   "slug": "sports-red-black"
+  }
+ ],
+ "hero-vida-v1": [
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Cyan",
+   "slug": "cyan"
+  },
+  {
+   "name": "Orange",
+   "slug": "orange"
+  },
+  {
+   "name": "Red",
+   "slug": "red"
+  },
+  {
+   "name": "White",
+   "slug": "white"
+  }
+ ],
+ "hero-xtreme-160r": [
+  {
+   "name": "Kevlar Brown",
+   "slug": "kevlar-brown"
+  },
+  {
+   "name": "Slate Black",
+   "slug": "slate-black"
+  }
+ ],
+ "honda-activa-125": [
+  {
+   "name": "Imperial Red",
+   "slug": "imperial-red"
+  },
+  {
+   "name": "Mat Axis Gray Metallic Obd2B",
+   "slug": "mat-axis-gray-metallic-obd2b"
+  },
+  {
+   "name": "Mat Steel Black Metallic Anniversary Edition",
+   "slug": "mat-steel-black-metallic-anniversary-edition"
+  },
+  {
+   "name": "Pearl Deep Ground Gray Obd2B",
+   "slug": "pearl-deep-ground-gray-obd2b"
+  },
+  {
+   "name": "Pearl Igneous Black Obd2B",
+   "slug": "pearl-igneous-black-obd2b"
+  },
+  {
+   "name": "Pearl Precious White Obd2B",
+   "slug": "pearl-precious-white-obd2b"
+  },
+  {
+   "name": "Pearl Siren Blue Anniversary Edition",
+   "slug": "pearl-siren-blue-anniversary-edition"
+  },
+  {
+   "name": "Pearl Siren Blue Obd2B",
+   "slug": "pearl-siren-blue-obd2b"
+  },
+  {
+   "name": "Rebel Red Metallic Obd2B",
+   "slug": "rebel-red-metallic-obd2b"
+  }
+ ],
+ "honda-activa-6g": [
+  {
+   "name": "Decent Blue Metalic",
+   "slug": "decent-blue-metalic"
+  },
+  {
+   "name": "Elegant Red",
+   "slug": "elegant-red"
+  },
+  {
+   "name": "Matte Axis Grey Metallic",
+   "slug": "matte-axis-grey-metallic"
+  },
+  {
+   "name": "Pearl Igneous Black",
+   "slug": "pearl-igneous-black"
+  },
+  {
+   "name": "Pearl Precious White",
+   "slug": "pearl-precious-white"
+  },
+  {
+   "name": "Pearl Siren Blue",
+   "slug": "pearl-siren-blue"
+  },
+  {
+   "name": "Rebel Red Mettalic",
+   "slug": "rebel-red-mettalic"
+  }
+ ],
+ "honda-cb350-h-ness": [
+  {
+   "name": "Brooklyn Black",
+   "slug": "brooklyn-black"
+  },
+  {
+   "name": "Dlx Pro Mat Axis Grey Mettalic",
+   "slug": "dlx-pro-mat-axis-grey-mettalic"
+  },
+  {
+   "name": "Dlx Pro Mat Dune Brown",
+   "slug": "dlx-pro-mat-dune-brown"
+  },
+  {
+   "name": "Dlx Pro Pearl Deep Ground Grey",
+   "slug": "dlx-pro-pearl-deep-ground-grey"
+  },
+  {
+   "name": "Dlx Pro Pearl Igneous Black",
+   "slug": "dlx-pro-pearl-igneous-black"
+  },
+  {
+   "name": "Mat Axis Grey Metallic",
+   "slug": "mat-axis-grey-metallic"
+  },
+  {
+   "name": "Mat Dune Brown",
+   "slug": "mat-dune-brown"
+  },
+  {
+   "name": "Pearl Deep Ground Grey",
+   "slug": "pearl-deep-ground-grey"
+  },
+  {
+   "name": "Pearl Igneous Black",
+   "slug": "pearl-igneous-black"
+  },
+  {
+   "name": "Rebel Red Metallic",
+   "slug": "rebel-red-metallic"
+  }
+ ],
+ "honda-dio": [
+  {
+   "name": "Black Matte",
+   "slug": "black-matte"
+  },
+  {
+   "name": "Imperial Red Metallic",
+   "slug": "imperial-red-metallic"
+  },
+  {
+   "name": "Mat Marvel Blue",
+   "slug": "mat-marvel-blue"
+  },
+  {
+   "name": "Matte Axis Grey Metallic",
+   "slug": "matte-axis-grey-metallic"
+  },
+  {
+   "name": "Pearl Igneous Black Pearl Deep Ground Gray",
+   "slug": "pearl-igneous-black-pearl-deep-ground-gray"
+  },
+  {
+   "name": "Pearl Igneous Black",
+   "slug": "pearl-igneous-black"
+  }
+ ],
+ "honda-hornet-2-0": [
+  {
+   "name": "Athletic Blue Metallic Obd2B",
+   "slug": "athletic-blue-metallic-obd2b"
+  },
+  {
+   "name": "Ebony Black",
+   "slug": "ebony-black"
+  },
+  {
+   "name": "Matte Axis Grey Metallic Obd2B",
+   "slug": "matte-axis-grey-metallic-obd2b"
+  },
+  {
+   "name": "Pearl Igneous Black Obd2B",
+   "slug": "pearl-igneous-black-obd2b"
+  },
+  {
+   "name": "Radiant Red Metallic Obd2B",
+   "slug": "radiant-red-metallic-obd2b"
+  }
+ ],
+ "honda-shine-125": [
+  {
+   "name": "Decent Blue Metallic",
+   "slug": "decent-blue-metallic"
+  },
+  {
+   "name": "Geny Grey Metallic",
+   "slug": "geny-grey-metallic"
+  },
+  {
+   "name": "Imperial Red Metallic",
+   "slug": "imperial-red-metallic"
+  },
+  {
+   "name": "Matte Axis Gray Metallic",
+   "slug": "matte-axis-gray-metallic"
+  },
+  {
+   "name": "Pearl Igneous Black",
+   "slug": "pearl-igneous-black"
+  },
+  {
+   "name": "Pearl Siren Blue Limited Edition",
+   "slug": "pearl-siren-blue-limited-edition"
+  },
+  {
+   "name": "Pearl Siren Blue",
+   "slug": "pearl-siren-blue"
+  },
+  {
+   "name": "Rebel Red Metallic",
+   "slug": "rebel-red-metallic"
+  }
+ ],
+ "honda-sp-125": [
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Decent Blue Metallic",
+   "slug": "decent-blue-metallic"
+  },
+  {
+   "name": "Imperial Red Metallic",
+   "slug": "imperial-red-metallic"
+  },
+  {
+   "name": "Mat Steel Black Metallicanniversary Edition",
+   "slug": "mat-steel-black-metallicanniversary-edition"
+  },
+  {
+   "name": "Matte Axis Grey Metallic",
+   "slug": "matte-axis-grey-metallic"
+  },
+  {
+   "name": "Matte Marvel Blue Metallic",
+   "slug": "matte-marvel-blue-metallic"
+  },
+  {
+   "name": "Pearl Siren Blue",
+   "slug": "pearl-siren-blue"
+  },
+  {
+   "name": "Pearl Siren Blueanniversary Edition",
+   "slug": "pearl-siren-blueanniversary-edition"
+  }
+ ],
+ "honda-unicorn": [
+  {
+   "name": "Mat Axis Gray Metallic",
+   "slug": "mat-axis-gray-metallic"
+  },
+  {
+   "name": "Pearl Igneous Black",
+   "slug": "pearl-igneous-black"
+  },
+  {
+   "name": "Radiant Red Metallic",
+   "slug": "radiant-red-metallic"
+  }
+ ],
+ "jawa-42": [
+  {
+   "name": "All Stars Battle Green",
+   "slug": "all-stars-battle-green"
+  },
+  {
+   "name": "All Stars Black",
+   "slug": "all-stars-black"
+  },
+  {
+   "name": "All Stars Ivory",
+   "slug": "all-stars-ivory"
+  },
+  {
+   "name": "All Stars Moss Grey",
+   "slug": "all-stars-moss-grey"
+  },
+  {
+   "name": "All Stars Nebula Blue",
+   "slug": "all-stars-nebula-blue"
+  }
+ ],
+ "jawa-perak": [
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Emerald",
+   "slug": "emerald"
+  }
+ ],
+ "kawasaki-ninja-300": [
+  {
+   "name": "Candy Lime Green Type 3",
+   "slug": "candy-lime-green-type-3"
+  },
+  {
+   "name": "Lime Green",
+   "slug": "lime-green"
+  },
+  {
+   "name": "Metallic Moondust Gray",
+   "slug": "metallic-moondust-gray"
+  }
+ ],
+ "kawasaki-ninja-650": [
+  {
+   "name": "Diablo Red Sapphire Black",
+   "slug": "diablo-red-sapphire-black"
+  },
+  {
+   "name": "Lime Green",
+   "slug": "lime-green"
+  }
+ ],
+ "kawasaki-versys-650": [
+  {
+   "name": "Lucerne Blue Sapphire Black",
+   "slug": "lucerne-blue-sapphire-black"
+  },
+  {
+   "name": "Metallic Matte Graphenesteel Gray",
+   "slug": "metallic-matte-graphenesteel-gray"
+  }
+ ],
+ "kawasaki-z900": [
+  {
+   "name": "Candy Lime Green Metallic Carbon Gray",
+   "slug": "candy-lime-green-metallic-carbon-gray"
+  },
+  {
+   "name": "Carnival Red And Sapphire Black",
+   "slug": "carnival-red-and-sapphire-black"
+  },
+  {
+   "name": "Metallic Matte Graphenesteel Gray Metallic Flat Spark Black",
+   "slug": "metallic-matte-graphenesteel-gray-metallic-flat-spark-black"
+  }
+ ],
+ "ktm-390-adventure": [
+  {
+   "name": "Ceramic White",
+   "slug": "ceramic-white"
+  },
+  {
+   "name": "Electronic Orange",
+   "slug": "electronic-orange"
+  },
+  {
+   "name": "Hanle Black",
+   "slug": "hanle-black"
+  }
+ ],
+ "ktm-duke-200": [
+  {
+   "name": "Dark Galvano",
+   "slug": "dark-galvano"
+  },
+  {
+   "name": "Electronic Orange",
+   "slug": "electronic-orange"
+  },
+  {
+   "name": "Ice Storm Dlx",
+   "slug": "ice-storm-dlx"
+  },
+  {
+   "name": "Silver Metallic",
+   "slug": "silver-metallic"
+  }
+ ],
+ "ktm-duke-250": [
+  {
+   "name": "Ebony Black",
+   "slug": "ebony-black"
+  },
+  {
+   "name": "Matte Finish Ceramic White",
+   "slug": "matte-finish-ceramic-white"
+  },
+  {
+   "name": "Metallic Silver",
+   "slug": "metallic-silver"
+  },
+  {
+   "name": "Slate Grey",
+   "slug": "slate-grey"
+  }
+ ],
+ "ktm-duke-390-gen-1-2013-2016": [
+  {
+   "name": "Atlantic Blue",
+   "slug": "atlantic-blue"
+  },
+  {
+   "name": "Electronic Orange",
+   "slug": "electronic-orange"
+  },
+  {
+   "name": "Gun Metal Grey",
+   "slug": "gun-metal-grey"
+  },
+  {
+   "name": "Lime Green",
+   "slug": "lime-green"
+  }
+ ],
+ "ktm-duke-390-gen-2-2017-2023": [
+  {
+   "name": "Atlantic Blue",
+   "slug": "atlantic-blue"
+  },
+  {
+   "name": "Electronic Orange",
+   "slug": "electronic-orange"
+  },
+  {
+   "name": "Gun Metal Grey",
+   "slug": "gun-metal-grey"
+  },
+  {
+   "name": "Lime Green",
+   "slug": "lime-green"
+  }
+ ],
+ "ktm-duke-390-gen-3-2024": [
+  {
+   "name": "Atlantic Blue",
+   "slug": "atlantic-blue"
+  },
+  {
+   "name": "Electronic Orange",
+   "slug": "electronic-orange"
+  },
+  {
+   "name": "Gun Metal Grey",
+   "slug": "gun-metal-grey"
+  },
+  {
+   "name": "Lime Green",
+   "slug": "lime-green"
+  }
+ ],
+ "ktm-rc-390": [
+  {
+   "name": "Blue",
+   "slug": "blue"
+  },
+  {
+   "name": "Lime Green",
+   "slug": "lime-green"
+  },
+  {
+   "name": "Orange",
+   "slug": "orange"
+  }
+ ],
+ "ola-electric-s1-air": [
+  {
+   "name": "Coaral Glam",
+   "slug": "coaral-glam"
+  },
+  {
+   "name": "Liquid Silver",
+   "slug": "liquid-silver"
+  },
+  {
+   "name": "Midnight Blue",
+   "slug": "midnight-blue"
+  },
+  {
+   "name": "Neon",
+   "slug": "neon"
+  },
+  {
+   "name": "Porcelain White",
+   "slug": "porcelain-white"
+  },
+  {
+   "name": "Stellar Blue",
+   "slug": "stellar-blue"
+  }
+ ],
+ "ola-electric-s1-pro": [
+  {
+   "name": "Amethyst",
+   "slug": "amethyst"
+  },
+  {
+   "name": "Jet Black",
+   "slug": "jet-black"
+  },
+  {
+   "name": "Matt White",
+   "slug": "matt-white"
+  },
+  {
+   "name": "Midnight Blue",
+   "slug": "midnight-blue"
+  },
+  {
+   "name": "Stellar Blue",
+   "slug": "stellar-blue"
+  }
+ ],
+ "royal-enfield-bullet-350-j-series": [
+  {
+   "name": "Battalion Black",
+   "slug": "battalion-black"
+  },
+  {
+   "name": "Black Gold",
+   "slug": "black-gold"
+  },
+  {
+   "name": "Military Black",
+   "slug": "military-black"
+  },
+  {
+   "name": "Military Red",
+   "slug": "military-red"
+  },
+  {
+   "name": "Standard Black",
+   "slug": "standard-black"
+  },
+  {
+   "name": "Standard Maroon",
+   "slug": "standard-maroon"
+  }
+ ],
+ "royal-enfield-classic-350-j-series": [
+  {
+   "name": "Commando Sand",
+   "slug": "commando-sand"
+  },
+  {
+   "name": "Emerald",
+   "slug": "emerald"
+  },
+  {
+   "name": "Gun Grey",
+   "slug": "gun-grey"
+  },
+  {
+   "name": "Madras Red",
+   "slug": "madras-red"
+  },
+  {
+   "name": "Medallion Bronze",
+   "slug": "medallion-bronze"
+  },
+  {
+   "name": "Redditch Red",
+   "slug": "redditch-red"
+  },
+  {
+   "name": "Stealth Black",
+   "slug": "stealth-black"
+  }
+ ],
+ "royal-enfield-classic-350-uce-pre-2021": [
+  {
+   "name": "Commando Sand",
+   "slug": "commando-sand"
+  },
+  {
+   "name": "Emerald",
+   "slug": "emerald"
+  },
+  {
+   "name": "Gun Grey",
+   "slug": "gun-grey"
+  },
+  {
+   "name": "Madras Red",
+   "slug": "madras-red"
+  },
+  {
+   "name": "Medallion Bronze",
+   "slug": "medallion-bronze"
+  },
+  {
+   "name": "Redditch Red",
+   "slug": "redditch-red"
+  },
+  {
+   "name": "Stealth Black",
+   "slug": "stealth-black"
+  }
+ ],
+ "royal-enfield-continental-gt-650": [
+  {
+   "name": "Apex Grey",
+   "slug": "apex-grey"
+  },
+  {
+   "name": "British Racing Green",
+   "slug": "british-racing-green"
+  },
+  {
+   "name": "Mr Clean",
+   "slug": "mr-clean"
+  },
+  {
+   "name": "Rocker Red",
+   "slug": "rocker-red"
+  },
+  {
+   "name": "Slipstream Blue",
+   "slug": "slipstream-blue"
+  }
+ ],
+ "royal-enfield-himalayan-411-411": [
+  {
+   "name": "Dune Brown",
+   "slug": "dune-brown"
+  },
+  {
+   "name": "Glacier Blue",
+   "slug": "glacier-blue"
+  },
+  {
+   "name": "Granite Black",
+   "slug": "granite-black"
+  },
+  {
+   "name": "Gravel Grey",
+   "slug": "gravel-grey"
+  },
+  {
+   "name": "Pine Green",
+   "slug": "pine-green"
+  },
+  {
+   "name": "Sleet Black",
+   "slug": "sleet-black"
+  }
+ ],
+ "royal-enfield-himalayan-450-450": [
+  {
+   "name": "Hanle Black",
+   "slug": "hanle-black"
+  },
+  {
+   "name": "Kamet White",
+   "slug": "kamet-white"
+  },
+  {
+   "name": "Kaza Brown",
+   "slug": "kaza-brown"
+  },
+  {
+   "name": "Mana Black",
+   "slug": "mana-black"
+  },
+  {
+   "name": "Salte Himalayan Salt",
+   "slug": "salte-himalayan-salt"
+  },
+  {
+   "name": "Slate Poppy Blue",
+   "slug": "slate-poppy-blue"
+  }
+ ],
+ "royal-enfield-hunter-350": [
+  {
+   "name": "Dapper Grey",
+   "slug": "dapper-grey"
+  },
+  {
+   "name": "Factory Black",
+   "slug": "factory-black"
+  },
+  {
+   "name": "Graphite Grey",
+   "slug": "graphite-grey"
+  },
+  {
+   "name": "London Red",
+   "slug": "london-red"
+  },
+  {
+   "name": "Moonshot White",
+   "slug": "moonshot-white"
+  },
+  {
+   "name": "Mumbai Yellow",
+   "slug": "mumbai-yellow"
+  },
+  {
+   "name": "Rebel Blue",
+   "slug": "rebel-blue"
+  },
+  {
+   "name": "Rio White",
+   "slug": "rio-white"
+  },
+  {
+   "name": "Tarmac Black",
+   "slug": "tarmac-black"
+  },
+  {
+   "name": "Tokyo Black",
+   "slug": "tokyo-black"
+  }
+ ],
+ "royal-enfield-interceptor-650": [
+  {
+   "name": "Barcelona Bue",
+   "slug": "barcelona-bue"
+  },
+  {
+   "name": "Black Ray",
+   "slug": "black-ray"
+  },
+  {
+   "name": "Cali Green",
+   "slug": "cali-green"
+  },
+  {
+   "name": "Canyon Red",
+   "slug": "canyon-red"
+  },
+  {
+   "name": "Mark 2",
+   "slug": "mark-2"
+  },
+  {
+   "name": "Sunset Strip",
+   "slug": "sunset-strip"
+  }
+ ],
+ "royal-enfield-meteor-350": [
+  {
+   "name": "Aurora Red",
+   "slug": "aurora-red"
+  },
+  {
+   "name": "Aurora Retro Green",
+   "slug": "aurora-retro-green"
+  },
+  {
+   "name": "Fireball Grey",
+   "slug": "fireball-grey"
+  },
+  {
+   "name": "Fireball Orange",
+   "slug": "fireball-orange"
+  },
+  {
+   "name": "Stellar Marine Blue",
+   "slug": "stellar-marine-blue"
+  },
+  {
+   "name": "Stellar Matt Grey",
+   "slug": "stellar-matt-grey"
+  },
+  {
+   "name": "Sundowner Orange",
+   "slug": "sundowner-orange"
+  },
+  {
+   "name": "Supernova Black",
+   "slug": "supernova-black"
+  }
+ ],
+ "royal-enfield-scram-411": [
+  {
+   "name": "Blazing Black",
+   "slug": "blazing-black"
+  },
+  {
+   "name": "Graphite Blue",
+   "slug": "graphite-blue"
+  },
+  {
+   "name": "Graphite Red",
+   "slug": "graphite-red"
+  },
+  {
+   "name": "Graphite Yellow",
+   "slug": "graphite-yellow"
+  },
+  {
+   "name": "Silver Spirit",
+   "slug": "silver-spirit"
+  },
+  {
+   "name": "Skyline Blue",
+   "slug": "skyline-blue"
+  },
+  {
+   "name": "White Flame",
+   "slug": "white-flame"
+  }
+ ],
+ "royal-enfield-super-meteor-650": [
+  {
+   "name": "Astral Black",
+   "slug": "astral-black"
+  },
+  {
+   "name": "Celestial Blue",
+   "slug": "celestial-blue"
+  },
+  {
+   "name": "Celestial Red",
+   "slug": "celestial-red"
+  },
+  {
+   "name": "Interstellar Green",
+   "slug": "interstellar-green"
+  },
+  {
+   "name": "Interstellar Grey",
+   "slug": "interstellar-grey"
+  }
+ ],
+ "suzuki-access-125": [
+  {
+   "name": "Elegant Red",
+   "slug": "elegant-red"
+  },
+  {
+   "name": "Metallic Mat Black Q 12",
+   "slug": "metallic-mat-black-q-12"
+  },
+  {
+   "name": "Mettalic Mat Stellar Blue Yua",
+   "slug": "mettalic-mat-stellar-blue-yua"
+  },
+  {
+   "name": "Pearl Grace White Q1S",
+   "slug": "pearl-grace-white-q1s"
+  },
+  {
+   "name": "Pearl Mat Aqua Silver Q2D",
+   "slug": "pearl-mat-aqua-silver-q2d"
+  },
+  {
+   "name": "Solid Ice Green Qza",
+   "slug": "solid-ice-green-qza"
+  }
+ ],
+ "suzuki-burgman-street": [
+  {
+   "name": "Ex Metallic Matte Black No 2",
+   "slug": "ex-metallic-matte-black-no-2"
+  },
+  {
+   "name": "Ex Metallic Royal Bronze",
+   "slug": "ex-metallic-royal-bronze"
+  },
+  {
+   "name": "Ex Pearl Glacier White Met Oort Gray Q1S",
+   "slug": "ex-pearl-glacier-white-met-oort-gray-q1s"
+  },
+  {
+   "name": "Met Mat Platinum Silver No 2 Met Matte Luxe Copper",
+   "slug": "met-mat-platinum-silver-no-2-met-matte-luxe-copper"
+  },
+  {
+   "name": "Met Mat Stellar Blue Met Mat Luxe Copper",
+   "slug": "met-mat-stellar-blue-met-mat-luxe-copper"
+  },
+  {
+   "name": "Met Matte Black No 2 Met Matte Luxe Copper",
+   "slug": "met-matte-black-no-2-met-matte-luxe-copper"
+  },
+  {
+   "name": "Met Royal Bronze Met Matte Luxe Copper",
+   "slug": "met-royal-bronze-met-matte-luxe-copper"
+  },
+  {
+   "name": "Pearl Deep Ground Gray Obd2B",
+   "slug": "pearl-deep-ground-gray-obd2b"
+  },
+  {
+   "name": "Pearl Grace White Met Mat Luxe Copper",
+   "slug": "pearl-grace-white-met-mat-luxe-copper"
+  }
+ ],
+ "suzuki-gixxer-sf": [
+  {
+   "name": "Glass Sparkle Black",
+   "slug": "glass-sparkle-black"
+  },
+  {
+   "name": "Met Oort Gray Met Lush Green",
+   "slug": "met-oort-gray-met-lush-green"
+  },
+  {
+   "name": "Met Triton Blue Pearl Glacier White",
+   "slug": "met-triton-blue-pearl-glacier-white"
+  },
+  {
+   "name": "Racing Red",
+   "slug": "racing-red"
+  },
+  {
+   "name": "Yhg Met Oort Gray Yvz Pearl Mira Red",
+   "slug": "yhg-met-oort-gray-yvz-pearl-mira-red"
+  },
+  {
+   "name": "Yvb Glass Sparkle Black Yhg Met Oort Gray",
+   "slug": "yvb-glass-sparkle-black-yhg-met-oort-gray"
+  }
+ ],
+ "suzuki-hayabusa": [
+  {
+   "name": "Ducati Red",
+   "slug": "ducati-red"
+  },
+  {
+   "name": "Glass Sparkle Black Metallic Mat Titanium Silver",
+   "slug": "glass-sparkle-black-metallic-mat-titanium-silver"
+  },
+  {
+   "name": "Metallic Mystic Silver Pearl Vigor Blue",
+   "slug": "metallic-mystic-silver-pearl-vigor-blue"
+  },
+  {
+   "name": "Mettalic Mat Steel Green Glass Sparkle Black",
+   "slug": "mettalic-mat-steel-green-glass-sparkle-black"
+  }
+ ],
+ "suzuki-v-strom-sx": [
+  {
+   "name": "Champion Yellow Glass Sparkle Black",
+   "slug": "champion-yellow-glass-sparkle-black"
+  },
+  {
+   "name": "Glass Sparkle Black",
+   "slug": "glass-sparkle-black"
+  },
+  {
+   "name": "Lightning Black",
+   "slug": "lightning-black"
+  },
+  {
+   "name": "Pearl Fresh Blue Glass Sparkle Black",
+   "slug": "pearl-fresh-blue-glass-sparkle-black"
+  },
+  {
+   "name": "Pearl Glacier White Metallic Mat Stellar Blue",
+   "slug": "pearl-glacier-white-metallic-mat-stellar-blue"
+  }
+ ],
+ "triumph-speed-400": [
+  {
+   "name": "Matte Black",
+   "slug": "matte-black"
+  },
+  {
+   "name": "Pearl Metallic White Pewter Grey",
+   "slug": "pearl-metallic-white-pewter-grey"
+  },
+  {
+   "name": "Phantom Black Pewter Grey",
+   "slug": "phantom-black-pewter-grey"
+  },
+  {
+   "name": "Racing Red Pearl Metallic White",
+   "slug": "racing-red-pearl-metallic-white"
+  },
+  {
+   "name": "Racing Yellow Pearl Metallic White",
+   "slug": "racing-yellow-pearl-metallic-white"
+  }
+ ],
+ "tvs-apache-rr-310": [
+  {
+   "name": "Anniversary Edition",
+   "slug": "anniversary-edition"
+  },
+  {
+   "name": "Black Diamond Edition",
+   "slug": "black-diamond-edition"
+  },
+  {
+   "name": "Bomber Grey",
+   "slug": "bomber-grey"
+  },
+  {
+   "name": "Racing Red",
+   "slug": "racing-red"
+  }
+ ],
+ "tvs-apache-rtr-160-4v": [
+  {
+   "name": "Anniversary Edition",
+   "slug": "anniversary-edition"
+  },
+  {
+   "name": "Arctic Teal",
+   "slug": "arctic-teal"
+  },
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Granite Grey",
+   "slug": "granite-grey"
+  },
+  {
+   "name": "Marine Blue",
+   "slug": "marine-blue"
+  },
+  {
+   "name": "Pearl White",
+   "slug": "pearl-white"
+  },
+  {
+   "name": "Racing Red",
+   "slug": "racing-red"
+  }
+ ],
+ "tvs-iqube": [
+  {
+   "name": "Aurora Green",
+   "slug": "aurora-green"
+  },
+  {
+   "name": "Copper Bronze Beige",
+   "slug": "copper-bronze-beige"
+  },
+  {
+   "name": "Harliquine Blue Biege",
+   "slug": "harliquine-blue-biege"
+  },
+  {
+   "name": "Magnifecence Purple Biege",
+   "slug": "magnifecence-purple-biege"
+  },
+  {
+   "name": "Pearl White",
+   "slug": "pearl-white"
+  },
+  {
+   "name": "Starlight Blue Beige",
+   "slug": "starlight-blue-beige"
+  },
+  {
+   "name": "Titanium Grey Matte",
+   "slug": "titanium-grey-matte"
+  },
+  {
+   "name": "Titanium Grey",
+   "slug": "titanium-grey"
+  },
+  {
+   "name": "Walnut Brown",
+   "slug": "walnut-brown"
+  }
+ ],
+ "tvs-jupiter": [
+  {
+   "name": "Black Matte",
+   "slug": "black-matte"
+  },
+  {
+   "name": "Dawn Blue Matte",
+   "slug": "dawn-blue-matte"
+  },
+  {
+   "name": "Galactic Copper Matte",
+   "slug": "galactic-copper-matte"
+  },
+  {
+   "name": "Lunar White Gloss",
+   "slug": "lunar-white-gloss"
+  },
+  {
+   "name": "Meteor Red Gloss",
+   "slug": "meteor-red-gloss"
+  },
+  {
+   "name": "Spectral Blue",
+   "slug": "spectral-blue"
+  },
+  {
+   "name": "Spectral Copper",
+   "slug": "spectral-copper"
+  },
+  {
+   "name": "Stardust Black Matte",
+   "slug": "stardust-black-matte"
+  },
+  {
+   "name": "Stardust Black",
+   "slug": "stardust-black"
+  },
+  {
+   "name": "Starlight Blue Gloss",
+   "slug": "starlight-blue-gloss"
+  },
+  {
+   "name": "Titanium Grey Matte",
+   "slug": "titanium-grey-matte"
+  }
+ ],
+ "tvs-ntorq-125": [
+  {
+   "name": "Amazing Red",
+   "slug": "amazing-red"
+  },
+  {
+   "name": "Blaze Blue",
+   "slug": "blaze-blue"
+  },
+  {
+   "name": "Camo Super Soldier Edition",
+   "slug": "camo-super-soldier-edition"
+  },
+  {
+   "name": "Dark Black",
+   "slug": "dark-black"
+  },
+  {
+   "name": "Harlequin Blue",
+   "slug": "harlequin-blue"
+  },
+  {
+   "name": "Lightning Gray",
+   "slug": "lightning-gray"
+  },
+  {
+   "name": "Nardo Grey",
+   "slug": "nardo-grey"
+  },
+  {
+   "name": "Neon Green Denim Blue",
+   "slug": "neon-green-denim-blue"
+  },
+  {
+   "name": "Race Edition Drift Blue",
+   "slug": "race-edition-drift-blue"
+  },
+  {
+   "name": "Race Edition Inferno Red",
+   "slug": "race-edition-inferno-red"
+  },
+  {
+   "name": "Race Red",
+   "slug": "race-red"
+  },
+  {
+   "name": "Rush Green",
+   "slug": "rush-green"
+  },
+  {
+   "name": "Stealth Black",
+   "slug": "stealth-black"
+  },
+  {
+   "name": "Torquoise Blue",
+   "slug": "torquoise-blue"
+  },
+  {
+   "name": "Yellow Cocktail",
+   "slug": "yellow-cocktail"
+  }
+ ],
+ "tvs-radeon": [
+  {
+   "name": "All Black",
+   "slug": "all-black"
+  },
+  {
+   "name": "Black",
+   "slug": "black"
+  },
+  {
+   "name": "Dt Blue Black",
+   "slug": "dt-blue-black"
+  },
+  {
+   "name": "Dt Red Black",
+   "slug": "dt-red-black"
+  },
+  {
+   "name": "Metal Black",
+   "slug": "metal-black"
+  },
+  {
+   "name": "Royal Purple",
+   "slug": "royal-purple"
+  },
+  {
+   "name": "Sports Red Black",
+   "slug": "sports-red-black"
+  },
+  {
+   "name": "Starlight Blue",
+   "slug": "starlight-blue"
+  },
+  {
+   "name": "Titanium Grey",
+   "slug": "titanium-grey"
+  }
+ ],
+ "tvs-raider-125": [
+  {
+   "name": "Black Panther",
+   "slug": "black-panther"
+  },
+  {
+   "name": "Blazing Blue",
+   "slug": "blazing-blue"
+  },
+  {
+   "name": "Cobalt Blue",
+   "slug": "cobalt-blue"
+  },
+  {
+   "name": "Deadpool",
+   "slug": "deadpool"
+  },
+  {
+   "name": "Doomsday",
+   "slug": "doomsday"
+  },
+  {
+   "name": "Iron Man",
+   "slug": "iron-man"
+  },
+  {
+   "name": "Mercury Grey",
+   "slug": "mercury-grey"
+  },
+  {
+   "name": "Metallic Blue",
+   "slug": "metallic-blue"
+  },
+  {
+   "name": "Nardo Grey",
+   "slug": "nardo-grey"
+  },
+  {
+   "name": "Nitro Green",
+   "slug": "nitro-green"
+  },
+  {
+   "name": "Striking Red Tft Sxc",
+   "slug": "striking-red-tft-sxc"
+  },
+  {
+   "name": "Striking Red",
+   "slug": "striking-red"
+  },
+  {
+   "name": "Wicked Black Igo",
+   "slug": "wicked-black-igo"
+  },
+  {
+   "name": "Wicked Black",
+   "slug": "wicked-black"
+  },
+  {
+   "name": "Wolverine",
+   "slug": "wolverine"
+  }
+ ],
+ "yamaha-fascino-125": [
+  {
+   "name": "Cool Blue Metallic",
+   "slug": "cool-blue-metallic"
+  },
+  {
+   "name": "Matte Black",
+   "slug": "matte-black"
+  },
+  {
+   "name": "Metallic Light Green",
+   "slug": "metallic-light-green"
+  },
+  {
+   "name": "Metallic Orangish Gray Spl",
+   "slug": "metallic-orangish-gray-spl"
+  },
+  {
+   "name": "Yellow Cocktail",
+   "slug": "yellow-cocktail"
+  }
+ ],
+ "yamaha-fz-s-fi": [
+  {
+   "name": "Cyber Green",
+   "slug": "cyber-green"
+  },
+  {
+   "name": "Dark Matte Blue",
+   "slug": "dark-matte-blue"
+  },
+  {
+   "name": "Gloss Black",
+   "slug": "gloss-black"
+  },
+  {
+   "name": "Ice Fluo Vermillion",
+   "slug": "ice-fluo-vermillion"
+  },
+  {
+   "name": "Majesty Red",
+   "slug": "majesty-red"
+  },
+  {
+   "name": "Matte Black",
+   "slug": "matte-black"
+  },
+  {
+   "name": "Metallic Grey",
+   "slug": "metallic-grey"
+  },
+  {
+   "name": "Racing Blue",
+   "slug": "racing-blue"
+  }
+ ],
+ "yamaha-mt-15": [
+  {
+   "name": "Black Metallic X Motogp Edition",
+   "slug": "black-metallic-x-motogp-edition"
+  },
+  {
+   "name": "Ice Storm Dlx",
+   "slug": "ice-storm-dlx"
+  },
+  {
+   "name": "Metallic Black Dlx",
+   "slug": "metallic-black-dlx"
+  },
+  {
+   "name": "Metallic Black",
+   "slug": "metallic-black"
+  },
+  {
+   "name": "Metallic Silver Cyan",
+   "slug": "metallic-silver-cyan"
+  },
+  {
+   "name": "Racing Red",
+   "slug": "racing-red"
+  },
+  {
+   "name": "Vivid Violet Metallic Dlx",
+   "slug": "vivid-violet-metallic-dlx"
+  }
+ ],
+ "yamaha-r15-v4-v4": [
+  {
+   "name": "Dark Knight",
+   "slug": "dark-knight"
+  },
+  {
+   "name": "Intensity White",
+   "slug": "intensity-white"
+  },
+  {
+   "name": "Matte White Pearl",
+   "slug": "matte-white-pearl"
+  },
+  {
+   "name": "Metallic Red",
+   "slug": "metallic-red"
+  },
+  {
+   "name": "New Metallic Black",
+   "slug": "new-metallic-black"
+  },
+  {
+   "name": "Racing Blue",
+   "slug": "racing-blue"
+  },
+  {
+   "name": "Vivid Magenta Metallic",
+   "slug": "vivid-magenta-metallic"
+  }
+ ],
+ "yezdi-adventure": [
+  {
+   "name": "Lighting Black",
+   "slug": "lighting-black"
+  },
+  {
+   "name": "Nebula Blue White",
+   "slug": "nebula-blue-white"
+  },
+  {
+   "name": "Single Head Light Glacier White",
+   "slug": "single-head-light-glacier-white"
+  },
+  {
+   "name": "Single Head Light Tornado Black",
+   "slug": "single-head-light-tornado-black"
+  },
+  {
+   "name": "Twin Head Light Glacier White Thl",
+   "slug": "twin-head-light-glacier-white-thl"
+  },
+  {
+   "name": "Twin Head Light Tornado Black Thl",
+   "slug": "twin-head-light-tornado-black-thl"
+  },
+  {
+   "name": "Twin Head Light Wolf Grey Thl",
+   "slug": "twin-head-light-wolf-grey-thl"
+  },
+  {
+   "name": "Yellow Falcon",
+   "slug": "yellow-falcon"
+  }
+ ],
+ "yezdi-roadster": [
+  {
+   "name": "Std",
+   "slug": "std"
+  }
+ ]
+}
